@@ -1,0 +1,6 @@
+@GitHubReminderApp_HostAddress = http://localhost:5159
+
+GET {{GitHubReminderApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
